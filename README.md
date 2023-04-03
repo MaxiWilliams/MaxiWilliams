@@ -8,8 +8,7 @@
 🏆 Aspiro a conseguir mi primer trabajo en IT, que me permita continuar con mi desarrollo personal y profesional, además de ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dileoportafolio.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquindileo)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximowilliams/)
 
 ## Tech Stack
 
@@ -32,9 +31,9 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 
 ## My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dileo24&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaxiWilliams&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileo24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiWilliams&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  ## Contador de Visitas 👀
-<p align="center"><img src="https://profile-counter.glitch.me/{Caarlos94}/count.svg" alt="Caarlos94 :: Contador de Visitantes" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MaxiWilliams}/count.svg" alt="MaxiWilliams :: Contador de Visitantes" /></p>
