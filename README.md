@@ -1,7 +1,7 @@
 
 # Hola, soy Maximo 👋!
 
-🚀 Soy Front End Web Developer en Coderhouse y por otros cursos en plataformas como Udemy.
+🚀 Soy Front End Web Developer cursando Coderhouse y por otros cursos en plataformas como Udemy.
 
 👨‍💻 Tengo experiencia trabajando con HTML5 y CSS3, mientras que sigo en proceso de aprendizaje de otras tecnologias como JavaScript, React.js. 
 
